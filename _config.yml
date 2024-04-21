@@ -3,8 +3,8 @@ subtitle: From 2D Pose estimation to 3D OpenSim motion
 description: >- # this means to ignore newlines until "baseurl:"
   Markerless kinematics with any cameras — From 2D Pose estimation to 3D OpenSim motion.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hunminkim98.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/Jekyll-test.github.io" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
@@ -12,11 +12,11 @@ urls:
       url: /
     - text: QuikStart
       url: /about
-    - text: Calibration
+    - text: How to Use
       url: /blog
-    - text: PersonAssociation
+    - text: Features
       url: /gallery
-    - text: Triangulation
+    - text: FAQs
       url : /shop
     - text: Contact
       url : /contact
